@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @loh0123
-- 👀 I’m interested in Game Develepment
-- 🌱 I’m currently learning Unreal Engine / C++
-- 💞️ I’m looking to collaborate on Game Develepment Project
+- 👀 I’m interested in Game Develepment, App Develepment, Web Develepment
+- 🌱 I’m currently learning Unreal Engine / C++, html and php
+- 💞️ I’m looking to collaborate on Game Develepment Project and Web Design / Develepment
 - 📫 Contact me at Loh0123@hotmail.com
 
 <!---
